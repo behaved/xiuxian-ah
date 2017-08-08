@@ -1,0 +1,17 @@
+#+title:xiuxian-ah说明文档
+#+date:2017-08-08
+#+email:anbgsl1110@gamil.com
+#+author:aliang
+#+keys:aliang xiuxian-ah 说明文档
+#+description:xiuxian-ah说明文档1.0
+#+options: toc:0 ^:nil
+
+* 说明1.0
+
+模仿matrix的模式做教育培训行业的pass云平台解决方案 
+
+matrix：https://matrix.org/
+
+创建时间：2017-08-08 
+
+亦余心之所善兮，虽九死其犹未悔。
