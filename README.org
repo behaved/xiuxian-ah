@@ -6,16 +6,16 @@
 #+description:xiuxian-ah说明文档1.0
 #+options: toc:0 ^:nil
 
-* 摘要
+* =摘要=
 
 模仿matrix的模式做教育培训行业的pass云平台解决方案 
 
 matrix：https://matrix.org/
 
-* 备注
+* =备注=
 
 创建时间：2017-08-08 
 
-* =hhh=
+* =hhh=                                                                         :自我暗示:
 
-=亦余心之所善兮，虽九死其犹未悔。=
+亦余心之所善兮，虽九死其犹未悔。
