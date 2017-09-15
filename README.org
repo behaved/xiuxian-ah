@@ -8,7 +8,7 @@
 
 *** 摘要
 
-借鉴matrix做pass云平台 
+借鉴matrix和Nexus做pass云平台，做信息化的私人定制，数据的自由共享。
 
 matrix：https://matrix.org/
 
